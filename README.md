@@ -12,4 +12,4 @@ Code description:
 (2) Baseline models are examined after the dataloading in both 'classification_final' file and 'baseline2_final' file.  
 (3) Evaluation on testing dataset: With the saved model checkpoints, the evaluation metrics are calculated based on the testing dataset. A csv file is also exported with detailed prediction results.  
 (4) In the file folder model_checkpoints and logs, you can find the files used in the paper as well as the sample file matching with the 'ypinb' file history.   
-(5) The training log results and testing results are visualized using 'training_log_result_visualization.py' file and 'testing_result_roc_curve.py' file. The figure is shown in Figure 3 of the paper.  
+(5) The training log results and testing results are visualized using 'training_log_result_visualization.py' file and 'testing_result_roc_curve.py' file. The figure is shown in the Figure 3 of the paper.  
