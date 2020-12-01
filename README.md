@@ -4,7 +4,7 @@ Authors: Zeqing Jin, Yifei Zhang, Xianlin Shao, Zilan Zhang
 University of California, Berkeley  
 {zjin2017, yifei_zhang, shayd, shilan}[at]berkeley[dot]edu
   
-Project summary: 
+Project summary:  
 Although 3D-bioprinting additive manufacturing technologies have been actively studied and advanced in the past decade, anomalies such as discontinuity and irregularity are commonly seen in the process of bioprinting. Challenges lie in detecting these transparent defects efficiently and accurately. In this study, an anomaly detection system based on layer-wise camera images and machine learning methods is developed to distinguish various anomalies with satisfying performance. It is envisioned that this work will provide effective information on layer-wise printing conditions as well as potential applications in the autonomous correction of bioprinters without human interaction.  
 
 Code description:  
