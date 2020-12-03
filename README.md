@@ -16,4 +16,4 @@ Code description:
 * The link to the dataset and model_checkpoints: https://bit.ly/3fUv80k
 
 Correction:
-Table 1 of the paper has a typo and is corrected in 'correction on Table 1.png'. 
+Table 1 of the paper has a typo and is corrected in blue color shown in 'correction on Table 1.png'. 
